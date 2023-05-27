@@ -112,7 +112,7 @@
                 nav: false,
                 dots: true,
                 items: 3,
-                autoplay: true,
+                autoplay: false,
                 smartSpeed: 700,
                 autoplayTimeout: 7000,
                 autoplayHoverPause: true, // Stops autoplay
